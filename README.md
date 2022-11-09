@@ -1,6 +1,6 @@
 # TEALS
 
-This is my repo for Intriduction to Software Technologies!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tra890/Teal-2/HEAD)This is my repo for Intriduction to Software Technologies!
 
 ## Second level header
 
